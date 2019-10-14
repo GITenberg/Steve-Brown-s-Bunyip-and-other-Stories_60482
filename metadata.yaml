@@ -1,5 +1,8 @@
 _repo: Steve-Brown-s-Bunyip-and-other-Stories_60482
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 60482-h/images/cover.jpg
 creator:
   authors:
   - agent_name: Barry, James Arthur
@@ -15,6 +18,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/132
     wikipedia: http://en.wikipedia.org/wiki/Rudyard_Kipling
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/60482#Steve-Brown-s-Bunyip-and-other-Stories
 gutenberg_issued: '2019-10-13'
 gutenberg_type: Text
 identifiers:
